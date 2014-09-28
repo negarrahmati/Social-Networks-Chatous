@@ -1,0 +1,17 @@
+triad count:  77776
+number of nodes:  24594
+number of edges:  206745
+number of edges to be predicted:  829
+Fraction of each triangle: 
+0 0 0:  0.320047315367 
+0 0 1:  0.137103133786 
+0 1 0:  0.137103133786 
+0 1 1:  0.0741874099979 
+1 0 0:  0.137103133786 
+1 0 1:  0.0741874099979 
+1 1 0:  0.0741874099979 
+1 1 1:  0.0460810532812
+Fraction of balanced triangles:  0.457390454639
+cross_validation
+test_size:  0.5
+error rate on the test set is: 0.317234596564

@@ -1,0 +1,12 @@
+triad count:  78483
+number of nodes:  24594
+number of edges:  207548
+cross_validation
+pos 219107
+real pos 156598
+test_size:  0.9
+error rate on the test set is: 0.316226207015
+positives precision(what fraction of + is correct):  0.71471016444
+positive recall(what fraction of real +s it finds:  1.0
+negative precision(what fraction of - is correct):  0.639895132056
+negative recall(what fraction of real -s it finds:  0.455557654996

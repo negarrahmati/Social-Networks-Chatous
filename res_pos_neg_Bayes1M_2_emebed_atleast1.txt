@@ -1,0 +1,8 @@
+len removed friend 599
+len friends 55784
+len removed enemy 249
+len enemy 22253
+triad count:  367
+number of nodes:  78733
+number of edges:  40770
+####triad: 

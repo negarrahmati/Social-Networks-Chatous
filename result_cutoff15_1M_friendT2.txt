@@ -1,0 +1,4 @@
+triad count:  77776
+number of nodes:  24594
+number of edges:  206745
+number of edges to be predicted:  829

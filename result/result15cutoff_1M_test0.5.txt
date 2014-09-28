@@ -1,0 +1,16 @@
+triad count:  78483
+number of nodes:  24594
+number of edges:  207548
+Fraction of each triangle: 
+0 0 0:  0.317966948256 
+0 0 1:  0.136997821184 
+0 1 0:  0.136997821184 
+0 1 1:  0.0747423008804 
+1 0 0:  0.136997821184 
+1 0 1:  0.0747423008804 
+1 1 0:  0.0747423008804 
+1 1 1:  0.0468126855497
+Fraction of balanced triangles:  0.457806149102
+cross_validation
+test_size:  0.5
+error rate on the test set is: 0.315608919383

@@ -1,0 +1,3 @@
+triad count:  733930
+number of nodes:  68202
+number of edges:  940167

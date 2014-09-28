@@ -1,0 +1,35 @@
+len removed friend 599
+len friends 55784
+len removed enemy 249
+len enemy 22253
+triad count:  367
+number of nodes:  78733
+number of edges:  40770
+####triad: 
+saved features for triad training of removed friends(secod phase), 10 percent of friends removed
+ignored edges in getting features of the test set:  0
+!!!! 848
+1904
+cross_validation
+LEN 1904 1904
+pos 832
+right_pos 593
+real pos 599
+test_size:  0.1
+error rate on the test set is: 0.28891509434
+positives precision(what fraction of + is correct):  0.712740384615
+positive recall(what fraction of real +s it finds:  0.989983305509
+negative precision(what fraction of - is correct):  0.625
+negative recall(what fraction of real -s it finds:  0.0401606425703
+####polarity
+!!! 848
+cross_validation
+pos 565
+right_pos 457
+real pos 599
+test_size:  0.1
+error rate on the test set is: 0.294811320755
+positives precision(what fraction of + is correct):  0.808849557522
+positive recall(what fraction of real +s it finds:  0.762938230384
+negative precision(what fraction of - is correct):  0.498233215548
+negative recall(what fraction of real -s it finds:  0.566265060241
